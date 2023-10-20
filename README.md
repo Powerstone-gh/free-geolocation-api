@@ -1,5 +1,5 @@
 # free-geolocation-api
-Powerstone's free geolocation API
+Powerstone's free geolocation API<br>
 Please note that you will need a free API key from https://developers.powerstonegh.com in order to be able to use this free software, it's easy to generate and it's free.
 What can Powerstone Geolocator do for you? Here is a simple wrap up of it's features:
 Find the geographical location of your app user or website visitor with the help of their IP address using our JSON API.
